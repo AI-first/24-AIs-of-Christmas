@@ -1,7 +1,7 @@
 # 24-AIs-of-Christmas
 The christmas AI hackday in Zurich
 
-One day, early till late. Collect ideas in the morning, small teams, build something demo'able by the evening. Launch what you built in the evening. Coffee all day. Pizza sponsor needed.
+One day, early till late. Collect ideas in the morning, form small teams, build something demo'able by the evening. Launch what you built in the evening. ☕️ Coffee all day. 🍕 Pizza sponsor needed.
 
 # Date
 
@@ -27,3 +27,7 @@ Low key. Learn something new, so don't bring your pre-built prototype.
 
 We start with collecting ideas that could profit from a AI solution. Then split into
 small teams and get working. At the end of the day live demos only, no slideware.
+
+# Data, data, data
+
+No learning without data. Collect links to datasets in [#3](https://github.com/AI-first/24-AIs-of-Christmas/issues/3)

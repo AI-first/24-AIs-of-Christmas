@@ -1,5 +1,5 @@
 # 24-AIs-of-Christmas
-The christmas AI hackday in Zurich
+🎄 The christmas AI hackday in Zurich 🎄
 
 One day, early till late. Collect ideas in the morning, form small teams, build something demo'able by the evening. Launch what you built in the evening. ☕️ Coffee all day. 🍕 Pizza sponsor needed.
 

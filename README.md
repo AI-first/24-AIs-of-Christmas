@@ -34,3 +34,9 @@ small teams and get working. At the end of the day live demos only, no slideware
 # Data, data, data
 
 No learning without data. Collect links to datasets in [#3](https://github.com/AI-first/24-AIs-of-Christmas/issues/3)
+
+# Stay in touch
+
+Subscribe to this repository to stay informed:
+
+![](https://github.com/AI-first/24-AIs-of-Christmas/blob/master/watcher_picker.gif?raw=true)

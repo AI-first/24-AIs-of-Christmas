@@ -15,6 +15,9 @@ See [#2](https://github.com/AI-first/24-AIs-of-Christmas/issues/2)
 
 Everyone is welcome. Clear your agenda, leave your email client at home and dive in!
 
+To keep things low key we will probably do "first come, first served" on the door. Once
+the location is full, that's it.
+
 Not sure you are a AI wizzard? Doesn't matter you might have a problem people want
 to work on.
 
@@ -25,7 +28,7 @@ sucks! So come along.
 
 Low key. Learn something new, so don't bring your pre-built prototype.
 
-We start with collecting ideas that could profit from a AI solution. Then split into
+We start the day with collecting ideas that could profit from a AI solution. Then split into
 small teams and get working. At the end of the day live demos only, no slideware.
 
 # Data, data, data
